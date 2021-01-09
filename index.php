@@ -1,12 +1,8 @@
-<!DOCTYPE html>
 <html>
-<body>
-
-<h1>Tsoftware Web Page</h1>
-
-<?php
-echo "Hello World!";
-?>
-
-</body>
-</html> 
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
